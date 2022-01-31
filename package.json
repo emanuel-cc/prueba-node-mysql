@@ -1,0 +1,15 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Prueba tecnica",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Antonio Cocom Che",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  }
+}
